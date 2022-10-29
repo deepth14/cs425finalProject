@@ -1,2 +1,2 @@
 # carRentalSWE
-A car rental application for the Software Engineering Course MIU July 2021
+A car rental application for the Software Engineering Course MIU October 2022
